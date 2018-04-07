@@ -23,4 +23,5 @@ FIRST has 414 teams and 40 teams' keys are expired on 2018/04/08.
 
 Here is a list of expired PGP public keys.
 
-<script src="https://gist.github.com/ninoseki/7ca950c99601b5f96573434be065a924.js"></script>
+- https://gist.github.com/ninoseki/7ca950c99601b5f96573434be065a924
+
